@@ -12,28 +12,6 @@ data structure.
 
 ⸻
 
-📁 Project Structure
-src/main/java/
-│
-├── ArrayListExamples
-├── LinkedListExamples
-├── StackExamples
-├── QueuesExamples
-├── HashMapExamples
-├── InfixPostfixDemo
-│
-└── BinarySearchTreeExamples/
-    ├── BinarySearchTree
-    ├── Node
-    └── Main
-
-Each file demonstrates:
-	•	Core operations
-	•	Common use cases
-	•	How the data structure behaves internally
-
-⸻
-
 🧠 How I Study & Take Notes
 
 Alongside coding, I took detailed handwritten concept notes using GoodNotes on my iPad.
